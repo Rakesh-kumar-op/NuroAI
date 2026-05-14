@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn
+xgboost
+pytorch-tabnet
+torch
+torchvision
+torchaudio
+praat-parselmouth
+librosa
+soundfile
+scipy
+joblib
+sounddevice
+fastapi
+uvicorn
+python-multipart
